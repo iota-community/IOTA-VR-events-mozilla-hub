@@ -1,5 +1,5 @@
 # IOTA-VR-events-mozilla-hub
-Hubs by mozilla VR events space for IOTA related events
+[Hubs by mozilla](https://hubs.mozilla.com/) VR events space for IOTA related events
 
 ## Contribute and edit on spoke by mozilla
 Go to [spoke by mozilla](https://hubs.mozilla.com/spoke), import the .gbl file and start editing
