@@ -225,7 +225,7 @@ If you are using public rooms, invite identified participants together in rooms 
 - **Mozilla Hubs** = Online platform for VR virtual spaces
 - **Spoke** = Online 3D scene editor on the Mozilla Hubs platform
 - **Room** = Virtual room, virtual space or channel
-- Scene** = Customizable appearance of a virtual world inside a room, these can be edited in Spoke
+- **Scene** = Customizable appearance of a virtual world inside a room, these can be edited in Spoke
 - **Avatar** = graphical 3D representation of the user or the user's alter ego or character
 - **Spawn Point** = Point in the VR space, where people enter the location with their avatar
 - **FPV** = First person view, the user sees from the “eyes of the avatar”
